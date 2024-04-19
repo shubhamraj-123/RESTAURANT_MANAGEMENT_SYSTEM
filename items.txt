@@ -1,0 +1,13 @@
+1,Burger,120
+2,Chicken Biryani,200
+3,Chicken Pizza,500
+4,Chicken Chilli,300
+6,Chocolate Cake,700
+7,Garlic Bread,200
+8,Ice Tea,50
+9,veg,150
+11,Coffee,50
+12,Ice,30
+13,Chicken Lollipop,200
+14,Water Bottle,20
+15,paneer kolhapuri,1
